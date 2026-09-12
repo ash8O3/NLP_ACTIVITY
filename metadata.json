@@ -1,0 +1,6 @@
+{
+  "name": "Student Query Assistant",
+  "description": "An NLP-powered university student chatbot answering queries on admissions, fees, timetables, examinations, departments, and campus facilities.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
